@@ -8,5 +8,5 @@ Project Cyclo won [1st place](https://www.instagram.com/p/CbzvsZFPNbd/) in the 2
 
 ![Project Cyclo](https://i.imgur.com/LyKI7ip_d.webp?maxwidth=760&fidelity=grand)
 
-This repository contains the pitch presentation slides and the video pitch can be found [here](https://youtu.be/1WiSr1invGQ).
+### This repository contains the pitch presentation slides and the video pitch can be found [here](https://youtu.be/1WiSr1invGQ).
 
