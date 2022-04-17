@@ -1,4 +1,4 @@
-# Project Cyclo by Rio Akbar (AUS) & Adila Ilma (IDN)
+# Project Cyclo by [Rio Akbar](https://www.linkedin.com/in/rio-rsa/) (AUS) & [Adila Ilma](https://www.linkedin.com/in/adilanilma/) (IDN)
 
 Project Cyclo won [1st place](https://www.instagram.com/p/CbzvsZFPNbd/) in the 2022 Australia-Indonesia Case Competition hosted by the [Australia-Indonesia Youth Association](https://aiya.org.au/).
 
